@@ -1,0 +1,29 @@
+.service-details {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .service-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .service-description {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  .error-message {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+  }
+  

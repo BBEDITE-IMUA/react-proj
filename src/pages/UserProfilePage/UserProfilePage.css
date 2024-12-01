@@ -1,0 +1,35 @@
+.user-profile {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 2px solid #007bff;
+  }
+  
+  .profile-info p {
+    font-size: 16px;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .profile-info strong {
+    color: #333;
+  }
+  
